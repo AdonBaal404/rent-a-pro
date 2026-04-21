@@ -40,12 +40,11 @@ TRL 4 – Component and/or basic system validation in a development environment
 
 ## Tech stack
 
-- JavaScript
-- Node.js
-- Express
-- React
-- Vite
-- lowdb
+- JavaScript (ES6)
+- Node.js (Express backend)
+- React (Vite frontend)
+- lowdb (JSON-based storage)
+
 
 ## Note
 
