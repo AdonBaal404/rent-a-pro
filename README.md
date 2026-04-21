@@ -1,3 +1,7 @@
+## Core idea
+
+The platform is designed to reduce price pressure in service markets by introducing confidential pricing and context-dependent offers, while simultaneously helping professionals prioritize their work based on time, urgency, and relevance.
+
 # Rent a Pro
 
 Rent a Pro is a prototype of a platform for self-employed professionals and their clients.
